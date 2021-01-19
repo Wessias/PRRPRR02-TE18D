@@ -19,5 +19,6 @@ namespace SOLID_Labb
         public abstract void Sleep();
 
         public abstract void Eat();
+
     }
 }

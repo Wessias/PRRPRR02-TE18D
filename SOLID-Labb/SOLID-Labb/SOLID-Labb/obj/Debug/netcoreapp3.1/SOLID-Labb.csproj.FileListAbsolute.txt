@@ -1,0 +1,13 @@
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.exe
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.deps.json
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.runtimeconfig.json
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.runtimeconfig.dev.json
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.dll
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\bin\Debug\netcoreapp3.1\SOLID-Labb.pdb
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.csprojAssemblyReference.cache
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.AssemblyInfoInputs.cache
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.AssemblyInfo.cs
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.csproj.CoreCompileInputs.cache
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.dll
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.pdb
+D:\Program (x86)\GitHub\PRRPRR02-TE18D\SOLID-Labb\SOLID-Labb\SOLID-Labb\obj\Debug\netcoreapp3.1\SOLID-Labb.genruntimeconfig.cache

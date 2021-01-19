@@ -23,7 +23,8 @@ namespace SOLID_Labb
 
         public override void Speak()
         {
-            Console.WriteLine("Bird is peck-peck-pecking away!");
+            Console.WriteLine("Bird is shouting the shits with you!");
         }
+
     }
 }

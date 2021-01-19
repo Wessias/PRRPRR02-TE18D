@@ -15,9 +15,12 @@ namespace SOLID_Labb
 
             foreach (var animal in animals)
             {
-                if (animal is Dog dog)
+                if (animal is Dog)
                 {
-                    dog.TransferOwnership("Niklas");
+                    var bonklas = new Bonklas("Bonklas");
+                    bonklas.ChangeAnimalOwned("The dog named Doge");
+                    Console.WriteLine(bonklas._animalThatIsOwned + " is now owned by " + bonklas._owner);
+                    
                 }
 
                 animal.Eat();

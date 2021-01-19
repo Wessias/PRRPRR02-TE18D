@@ -23,7 +23,7 @@ namespace SOLID_Labb
 
         public override void Speak()
         {
-            Console.WriteLine("Hedgehog is omnomnoming!");
+            Console.WriteLine("Hedgehog is making noise!");
         }
     }
 }
